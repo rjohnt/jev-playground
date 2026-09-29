@@ -2,6 +2,14 @@
 
 A sentiment and emotional tone playground powered by [TypeSafe Jev](https://typesafe.ai). Enter freeform text and watch the dominant emotion light up, with confidence and probabilities for ten labels.
 
+## Demo
+
+Six live Jev scenarios in a short Playwright recording: happy, sad, anxious, funny, neutral, and mixed. The leading emotion fills in green by confidence; other candidates fill in gray by probability.
+
+[![Watch the Jev sentiment demo](docs/demo.gif)](https://github.com/rjohnt/jev-playground/raw/refs/heads/main/docs/demo.mp4)
+
+[Watch or download the MP4](https://github.com/rjohnt/jev-playground/raw/refs/heads/main/docs/demo.mp4).
+
 ## Run locally
 
 Requires Node.js 22 or later. No dependencies to install.
